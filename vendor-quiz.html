@@ -161,9 +161,6 @@ const Q = [
   { q:"Does the client name on the COA actually match THIS vendor (not some unrelated company)?",
     hint:"A real COA should tie to the vendor ordering it. A mismatched/blank client name can mean a reused or borrowed COA.",
     a:[["Yes — name matches the vendor",12],["No / blank / different company",1],["Didn't check",4]] },
-  { q:"Can you match the LOT number on your physical vial to the one on the COA?",
-    hint:"A COA proves a test happened on SOME sample — matching your vial's lot is what links it to YOUR product.",
-    a:[["Yes — lot matches my vial",8],["No — generic / no lot shown",1],["Haven't received a vial yet",3]] },
   { q:"How does the vendor handle questions about testing — openly, or defensively/vaguely?",
     hint:"Transparency under questioning is a soft but real signal. Hand-waving 'ISO-aligned' wording (not accredited) is a yellow flag.",
     a:[["Open, specific, shows the portal",6],["Vague / 'trust us' / dodges",1],["Haven't asked",3]] },
@@ -194,7 +191,8 @@ function finish(){
   document.getElementById('quiz').classList.add('hidden');
   document.getElementById('result').classList.remove('hidden');
   document.getElementById('topTitle').textContent="Your Vendor Trust Score";
-  const pct=Math.round(score); // max ~100
+  const maxScore=Q.reduce((s,item)=>s+Math.max(...item.a.map(o=>o[1])),0);
+  const pct=Math.round(score/maxScore*100); // always out of 100, whatever the question count
   const ring=document.getElementById('ring');
   document.getElementById('scoreNum').textContent=pct;
   let color, vText, vSub;
@@ -212,7 +210,7 @@ document.getElementById('emailForm').addEventListener('submit',function(e){
   const email=document.getElementById('email').value;
   // Build the personalized weak-spots list from wrong/low answers
   const weak=[];
-  const labels=["COA didn't verify on the lab's own portal","The lab may be captive (not independent)","Lab/vendor domains appeared together","No independent blind testing","COA client name didn't match the vendor","Vial lot didn't match the COA","Vendor was vague about testing"];
+  const labels=["COA didn't verify on the lab's own portal","The lab may be captive (not independent)","Lab/vendor domains appeared together","No independent blind testing","COA client name didn't match the vendor","Vendor was vague about testing"];
   answers.forEach(a=>{ if(a.idx!==0) weak.push(labels[a.i]); });
   const ws=document.getElementById('weakSpots');
   ws.innerHTML = weak.length

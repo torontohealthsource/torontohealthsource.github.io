@@ -1,0 +1,6 @@
+# TorontoHealth hub — allow everything, point to sitemap
+# [PLACEHOLDER]: replace torontohealthsource.github.io with the real URL.
+User-agent: *
+Allow: /
+
+Sitemap: https://torontohealthsource.github.io/sitemap.xml

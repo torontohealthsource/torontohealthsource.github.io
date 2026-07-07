@@ -22,4 +22,7 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
+# Markdown-for-AI layer: clean markdown index + full corpus for LLM ingestion
+# llms.txt: https://torontohealthsource.github.io/llms.txt
+# llms-full.txt: https://torontohealthsource.github.io/llms-full.txt
 Sitemap: https://torontohealthsource.github.io/sitemap.xml

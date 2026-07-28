@@ -39,7 +39,7 @@ Not necessarily — and this is the fair, method-first read. A lab holding the w
 
 More on judging labs and results: [independent vs in-house testing](/articles/janoshik-vs-in-house-testing.html) and [how to read a peptide COA](/articles/how-to-read-a-peptide-coa.html).
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

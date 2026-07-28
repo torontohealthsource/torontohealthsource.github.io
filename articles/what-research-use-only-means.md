@@ -40,7 +40,7 @@ No. This is the single most common misread. The label is about *intended use*, n
 
 The regulatory angle matters most in Canada, where import rules are real. See [are peptides legal in Canada](/articles/are-peptides-legal-in-canada.html) and [buying peptides in Canada](/articles/buying-peptides-in-canada.html) for the practical side.
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

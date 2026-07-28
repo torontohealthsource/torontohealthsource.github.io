@@ -45,7 +45,7 @@ Growth Guys is a legitimate, operating vendor. "Legit" gets you in the door; ver
 
 **Note:** For research and educational purposes only. Not medical advice.
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

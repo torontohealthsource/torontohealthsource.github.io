@@ -23,7 +23,7 @@ The PDF isn't the value — the lack of incentive to fudge it is. A widely used 
 
 Related: [Janoshik vs in-house](/articles/janoshik-vs-in-house-testing.html) · [spot a fake lab](/articles/how-to-spot-a-fake-testing-lab.html).
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

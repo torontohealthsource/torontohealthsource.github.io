@@ -50,7 +50,7 @@ That higher domestic price isn't just markup for its own sake. Independent repor
 
 **Should I pick a vendor because of the code?** No. Verify testing and shipping first; the code is the last step, not the first.
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

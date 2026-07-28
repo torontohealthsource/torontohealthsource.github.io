@@ -21,7 +21,7 @@ A smooth, fast domestic delivery of an untested vial is still an untested vial. 
 
 Related: [peptides and Canadian customs](/articles/peptides-canada-customs.html) · [buying peptides in Canada](/articles/buying-peptides-in-canada.html).
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -21,7 +21,7 @@ Compare price against verifiable testing, not against price alone. Buying tested
 
 Related: [cost to test a vial](/articles/cost-to-test-a-peptide-vial.html) · [comparing Canadian vendors](/articles/how-to-compare-canadian-peptide-vendors.html).
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

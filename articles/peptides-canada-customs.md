@@ -52,7 +52,7 @@ Border safety and testing transparency are two halves of the same decision. Once
 
 **Is buying direct from overseas cheaper?** Per unit it can look cheaper, but seizure risk, bulk minimums, and no buyer protection usually erase the saving for an individual.
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

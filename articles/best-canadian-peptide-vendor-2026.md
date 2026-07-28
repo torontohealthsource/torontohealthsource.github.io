@@ -55,7 +55,7 @@ A code should be the *last* thing you evaluate, not the first — trust first, t
 
 **Why prefer a domestic Canadian vendor?** Because the package never crosses the border, which removes customs seizure and importer-of-record risk entirely.
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

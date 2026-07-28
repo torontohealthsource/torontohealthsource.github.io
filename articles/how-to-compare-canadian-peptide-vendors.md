@@ -21,7 +21,7 @@ How long they've operated, whether they answer a direct testing question plainly
 
 Related: [buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [how to read a COA](/articles/how-to-read-a-peptide-coa.html).
 
-[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.is/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

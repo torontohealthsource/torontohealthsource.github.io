@@ -2,7 +2,7 @@
 
 _A fair, criteria-first comparison of Growth Guys and Great Northern Peptides for Canadian buyers: shipping origin, which lab signs the COA, lab credentials, payment options, and the current HEALTHYLIFE10 code._
 
-Source: https://torontohealthsource.github.io/articles/growth-guys-vs-great-northern-peptides.html · Updated: July 30, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-vs-great-northern-peptides.html · Updated: July 30, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Growth Guys or Great Northern Peptides — which should you choose?** Both are real, operating vendors that serve Canadian buyers, so the honest answer isn't a winner. It's a checklist: compare where each ships from, which lab signs the COA, whether that COA resolves on the lab's own portal, and what payment options exist. The discount code is a tiebreaker, not a reason.

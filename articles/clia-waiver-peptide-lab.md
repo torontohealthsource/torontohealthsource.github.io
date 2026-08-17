@@ -2,7 +2,7 @@
 
 _A CLIA waiver is a permit for simple clinical tests, not the high-complexity analysis used to test peptides. Why it's a mismatched credential on a COA. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/clia-waiver-peptide-lab.html · Updated: July 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/clia-waiver-peptide-lab.html · Updated: July 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What is a CLIA waiver, and does it qualify a peptide-testing lab?** A CLIA waiver is a US clinical-lab permit for *simple, low-complexity* tests — think basic point-of-care checks. It is **not** the right credential for the high-complexity HPLC and mass-spec work used to test peptides. Seeing "CLIA waiver" on a COA is a mismatched credential, not a mark of rigor.

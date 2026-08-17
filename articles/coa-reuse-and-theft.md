@@ -2,7 +2,7 @@
 
 _The two ways a 'real' Certificate of Analysis still misleads you: reuse (one test, thousands of vials) and theft (someone else's COA). Here's how each works._
 
-Source: https://torontohealthsource.github.io/articles/coa-reuse-and-theft.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/coa-reuse-and-theft.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The core idea:** a Certificate of Analysis proves a test happened on *some* sample — not that it came from your vial, nor that the vendor showing it is the one who ordered it. That gap is exploited two ways: **reuse** and **theft**. A "real" PDF defeats neither.

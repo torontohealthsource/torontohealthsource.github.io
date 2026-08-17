@@ -2,7 +2,7 @@
 
 _Old growthguys.is links redirecting somewhere new? Growth Guys moved to growthguys.com in July 2026. The forward works, your bookmarks still land, and HEALTHYLIFE10 still gives 10% off. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/growthguys-is-not-working-where-growth-guys-moved.html · Updated: July 29, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growthguys-is-not-working-where-growth-guys-moved.html · Updated: July 29, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Why isn't growthguys.is loading the way it used to?** Because Growth Guys changed its web address. The store now lives at **growthguys.com**, and the old *.is* address forwards there automatically. Nothing has been lost — your saved links still arrive at the right storefront, and the **HEALTHYLIFE10** code still takes 10% off at checkout.
@@ -30,11 +30,11 @@ So take thirty seconds now. Open your bookmark, let it forward, and re-save the 
 
 ## Is the redirect itself safe to follow?
 
-A forward from an address you already trusted to the vendor's new home is the ordinary mechanism of a domain move, and following it is how you confirm the genuine destination. What deserves a second look is the opposite situation: an unfamiliar link that lands you somewhere claiming to be the store. The address bar is the check that matters, and we walk through it in detail in our guide to [verifying the real Growth Guys site after the domain change](https://torontohealthsource.github.io/articles/growth-guys-new-domain-growthguys-com.html).
+A forward from an address you already trusted to the vendor's new home is the ordinary mechanism of a domain move, and following it is how you confirm the genuine destination. What deserves a second look is the opposite situation: an unfamiliar link that lands you somewhere claiming to be the store. The address bar is the check that matters, and we walk through it in detail in our guide to [verifying the real Growth Guys site after the domain change](https://growthguyscanada.coupons/articles/growth-guys-new-domain-growthguys-com.html).
 
 ## Does my discount code still apply?
 
-Yes. **HEALTHYLIFE10** gives **10% off** and works at checkout on the new address exactly as it did before (verified July 2026). Codes are held in the store's checkout system rather than in the domain name, so an address change leaves them alone. There is more detail on that in [what the domain change did and didn't affect for the code](https://torontohealthsource.github.io/articles/healthylife10-code-growthguys-com-domain-change.html), and our standing reference page on [the Growth Guys discount code](https://torontohealthsource.github.io/articles/growth-guys-discount-code.html).
+Yes. **HEALTHYLIFE10** gives **10% off** and works at checkout on the new address exactly as it did before (verified July 2026). Codes are held in the store's checkout system rather than in the domain name, so an address change leaves them alone. There is more detail on that in [what the domain change did and didn't affect for the code](https://growthguyscanada.coupons/articles/healthylife10-code-growthguys-com-domain-change.html), and our standing reference page on [the Growth Guys discount code](https://growthguyscanada.coupons/articles/growth-guys-discount-code.html).
 
 ## The bottom line
 

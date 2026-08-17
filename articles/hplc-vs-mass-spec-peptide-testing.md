@@ -2,7 +2,7 @@
 
 _Mass spectrometry confirms identity; HPLC measures purity. What each peptide test proves, and why one without the other is incomplete. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/hplc-vs-mass-spec-peptide-testing.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/hplc-vs-mass-spec-peptide-testing.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The core idea:** HPLC and mass spectrometry answer different questions. Mass spec confirms *identity* — is this the molecule it claims to be? HPLC measures *purity* — how much of the sample is that molecule versus everything else? A complete COA needs both.

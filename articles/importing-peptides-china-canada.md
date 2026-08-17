@@ -2,7 +2,7 @@
 
 _Ordering peptides direct from China to Canada looks cheap until you add customs risk, no recourse, and unverifiable testing. Here's the real math and the safer alternative._
 
-Source: https://torontohealthsource.github.io/articles/importing-peptides-china-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/importing-peptides-china-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The headline price is not the real price.** Ordering direct from an overseas supplier looks cheapest per vial — until you price in customs seizures, zero recourse, and testing you can't verify. Once those are in the math, a domestic Canadian vendor with real independent testing usually wins on *expected* cost, not just peace of mind.

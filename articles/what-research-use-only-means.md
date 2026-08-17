@@ -2,7 +2,7 @@
 
 _"Research Use Only" is a regulatory label about intended use, not a quality or safety grade. What it controls, what it doesn't, and how to vet an RUO peptide. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/what-research-use-only-means.html · Updated: July 11, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/what-research-use-only-means.html · Updated: July 11, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What does "Research Use Only" mean on a peptide?** It's a regulatory label, not a quality grade. It means the product has not been approved by a health regulator for human use and is sold strictly for laboratory or research purposes. It says nothing about purity, and it does not make a product tested, safe, or legal to import for personal use.

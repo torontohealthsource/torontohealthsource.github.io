@@ -2,7 +2,7 @@
 
 _What happens when the Canada Border Services Agency pulls a peptide parcel for secondary inspection, how long holds take, and why domestic shipping avoids the border. Logistics explainer, educational only._
 
-Source: https://torontohealthsource.github.io/articles/cbsa-secondary-inspection-peptides.html · Updated: July 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/cbsa-secondary-inspection-peptides.html · Updated: July 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What does a CBSA "secondary inspection" mean for a peptide order?** It means the Canada Border Services Agency has pulled your package aside for a closer look, which can hold it for days to a few weeks. Ordering from a vendor that ships *domestically inside Canada* avoids the border entirely, so there's no inspection step to get stuck in. This is a shipping-logistics explainer, not medical advice.

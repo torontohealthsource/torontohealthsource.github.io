@@ -2,7 +2,7 @@
 
 _How a peptide vendor lets you pay is a trust signal. Crypto-only with no card, no refund, and no Canadian business registration is the red flag. A sourcing explainer, educational only._
 
-Source: https://torontohealthsource.github.io/articles/peptide-vendor-payment-red-flags.html · Updated: July 30, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/peptide-vendor-payment-red-flags.html · Updated: July 30, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What payment methods are a red flag when buying peptides in Canada?** The biggest red flag is a vendor that *only* accepts cryptocurrency or e-Transfer with no card option, no refund path, and no verifiable Canadian business registration. A trustworthy domestic vendor gives you at least one reversible or traceable option and a real business behind it. This is a sourcing question, not a health one.

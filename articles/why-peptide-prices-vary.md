@@ -2,7 +2,7 @@
 
 _What drives the price differences between peptide vendors, and why the cheapest option is often a warning sign. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/why-peptide-prices-vary.html · Updated: July 10, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/why-peptide-prices-vary.html · Updated: July 10, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** Price gaps between vendors usually reflect testing, sourcing, and shipping — not a deal. The cheapest vial is often the untested one.

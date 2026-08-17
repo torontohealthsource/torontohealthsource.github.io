@@ -2,7 +2,7 @@
 
 _ISO 17025 is the accreditation standard for testing labs. Here's what it actually means, why 'ISO 17025-aligned' is a red flag, and how to check if a lab is really accredited._
 
-Source: https://torontohealthsource.github.io/articles/iso-17025-peptide-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/iso-17025-peptide-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** ISO/IEC 17025 is the international standard for the **competence of testing and calibration laboratories**. A lab that is **accredited** to it has been independently audited to prove its methods and results are reliable. The catch: **"ISO 17025-aligned" or "ISO-standard methods" is NOT accreditation** — it's weasel wording that borrows the credibility without earning it.

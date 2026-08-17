@@ -1,8 +1,8 @@
-# Growth Guys Discount Code (Verified June 2026) — 10% Off
+# Growth Guys Discount Code (Verified August 2026) — 10% Off
 
 _The working Growth Guys discount code is HEALTHYLIFE10 for 10% off. How to apply it, and why the vendor's testing matters more than the discount. Verified monthly._
 
-Source: https://torontohealthsource.github.io/articles/growth-guys-discount-code.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-discount-code.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Does Growth Guys have a discount code?** Yes. The current working code is **HEALTHYLIFE10**, which takes **10% off** your order. Enter it in the discount/coupon field at checkout. Verified working as of **June 2026**.
@@ -38,7 +38,7 @@ A discount is only a deal if the product behind it is real. Before chasing any c
 
 ## FAQ
 
-**Is the Growth Guys code still working?** Yes — HEALTHYLIFE10 is verified for June 2026. This page is re-checked monthly.
+**Is the Growth Guys code still working?** Yes — HEALTHYLIFE10 is verified for August 2026. This page is re-checked monthly.
 
 **How much do I save?** 10% off your order subtotal.
 

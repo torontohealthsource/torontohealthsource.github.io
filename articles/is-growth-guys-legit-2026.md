@@ -2,7 +2,7 @@
 
 _Is Growth Guys a real, legitimate peptide vendor in 2026? Yes — and here's how to vet it the same way you'd vet any vendor: verifiable COA, matching batch, domestic shipping. Includes the current HEALTHYLIFE10 code. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/is-growth-guys-legit-2026.html · Updated: July 27, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/is-growth-guys-legit-2026.html · Updated: July 27, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Is Growth Guys legit in 2026?** Growth Guys is a real, operating peptide vendor with a live storefront and an affiliate program — it exists and it ships. Whether it's the right choice for you comes down to the same checklist you'd run on any vendor: a verifiable COA, matching batch numbers, and domestic shipping. If you do decide to order, the code **HEALTHYLIFE10** takes 10% off (Verified July 2026).

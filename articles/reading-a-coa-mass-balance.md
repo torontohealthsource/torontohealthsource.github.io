@@ -2,7 +2,7 @@
 
 _What mass balance on a peptide COA means, and why a gap below 100% is a red flag. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/reading-a-coa-mass-balance.html · Updated: July 10, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/reading-a-coa-mass-balance.html · Updated: July 10, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The core idea:** Mass balance asks a simple question — do all the components reported on the COA add up to roughly one hundred percent? A missing chunk is unexplained material.

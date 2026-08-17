@@ -2,7 +2,7 @@
 
 _Does Growth Guys ship to Canada? What domestic peptide shipping solves at the border, what to check before ordering, and the code HEALTHYLIFE10 for 10% off. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/does-growth-guys-ship-to-canada.html · Updated: July 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/does-growth-guys-ship-to-canada.html · Updated: July 23, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Does Growth Guys ship to Canada?** Yes — Growth Guys is a Canada-oriented peptide supplier, so domestic Canadian shipping is its core market. That's the main reason Canadian buyers use it: the order stays inside the country and never crosses an international border. If you order, the code **HEALTHYLIFE10** takes 10% off. Verified July 2026. Educational information only, not medical advice.

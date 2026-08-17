@@ -2,7 +2,7 @@
 
 _How to compare Canadian peptide vendors on what's verifiable: independent testing, domestic shipping, and track record. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/how-to-compare-canadian-peptide-vendors.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/how-to-compare-canadian-peptide-vendors.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** Comparing Canadian peptide vendors comes down to three things you can actually verify — independent testing, domestic shipping, and a track record — not the marketing on the homepage.

@@ -2,7 +2,7 @@
 
 _A practical, step-by-step way to source peptides in Canada with the least risk — domestic shipping, verifiable testing, and a vendor shortlist. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/buy-peptides-canada-safely.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/buy-peptides-canada-safely.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The safest path in one line:** buy from a **domestic Canadian vendor** (no border risk) whose testing is done by an **independent lab and verifies on the lab's own portal**, and treat everything as **research/educational material** — which is its legal status in Canada.

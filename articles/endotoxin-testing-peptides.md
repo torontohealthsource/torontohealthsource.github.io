@@ -2,7 +2,7 @@
 
 _An endotoxin test checks for bacterial byproducts that a purity (HPLC) test misses. Why the two are different and which peptides most need it. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/endotoxin-testing-peptides.html · Updated: July 11, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/endotoxin-testing-peptides.html · Updated: July 11, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What does an endotoxin test on a peptide show?** It checks for endotoxins — fragments left behind by bacteria — that a purity test (HPLC) does not detect. A peptide can read 99% pure for identity and still carry endotoxins, because the two tests measure completely different things. It matters most for peptides made biosynthetically.

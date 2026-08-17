@@ -2,7 +2,7 @@
 
 _A lot of peptide 'reviews' are paid placements or vendor-seeded. Here's how to tell a real review from a planted one, and what to trust instead. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/are-peptide-reviews-trustworthy.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/are-peptide-reviews-trustworthy.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer: treat most of them as marketing.** A large share of peptide "reviews" — blog round-ups, "best vendor" lists, glowing forum threads — are paid placements, affiliate content, or vendor-seeded. That doesn't make them all worthless, but it means a review is a *starting point*, never proof. Verifiable testing is the only thing that proves anything.

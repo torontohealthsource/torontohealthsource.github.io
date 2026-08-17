@@ -2,7 +2,7 @@
 
 _What independent identity and purity testing of a peptide vial typically costs, and why the low price makes skipping it a red flag. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/cost-to-test-a-peptide-vial.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/cost-to-test-a-peptide-vial.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** Independent identity and purity testing of a single sample is a modest flat fee at third-party labs — cheap relative to the order it protects. The number itself carries a lesson: if a buyer can afford to test, a vendor selling thousands of vials certainly can.

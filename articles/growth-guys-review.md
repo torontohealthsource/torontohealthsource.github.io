@@ -2,7 +2,7 @@
 
 _An honest 2026 look at Growth Guys — what's verifiable about their testing and shipping, what to check yourself, and the working discount code. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/growth-guys-review.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-review.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The short version:** Growth Guys is a Canadian-shipping peptide vendor that uses independent third-party lab testing (Janoshik). Domestic fulfilment avoids the customs delays that plague overseas orders. As with anything in this space, do your own diligence — and you can knock **10% off with code HEALTHYLIFE10**. Research/educational use only.
@@ -25,7 +25,7 @@ A good vendor doesn't excuse you from diligence. Run the same checks I'd run on 
 
 ## The discount
 
-`Apply at checkout · 10% off · verified June 2026
+`Apply at checkout · 10% off · verified August 2026
 **HEALTHYLIFE10**`
 
 [Use the code →](https://growthguys.netlify.app)

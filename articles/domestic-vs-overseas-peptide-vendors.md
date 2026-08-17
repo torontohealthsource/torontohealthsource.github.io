@@ -2,7 +2,7 @@
 
 _For a Canadian buyer, what genuinely differs between domestic and overseas peptide vendors — shipping, the border, and recourse — and what doesn't. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/domestic-vs-overseas-peptide-vendors.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/domestic-vs-overseas-peptide-vendors.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** For a Canadian buyer the practical differences are shipping time, the customs question, and your recourse if an order goes wrong. A domestic vendor simplifies all three — but none of that tells you anything about quality. Only testing does.

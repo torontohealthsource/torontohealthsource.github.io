@@ -2,10 +2,10 @@
 
 _The working Growth Guys coupon for Canadian buyers in 2026 is HEALTHYLIFE10 — 10% off, domestic shipping. How to use it and why the vendor's testing matters._
 
-Source: https://torontohealthsource.github.io/articles/growth-guys-coupon-canada.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-coupon-canada.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
 
 
-> **The Canadian coupon:** use **HEALTHYLIFE10** at checkout for **10% off**. Growth Guys ships **domestically within Canada** (no border risk) and uses independent third-party lab testing. Verified June 2026.
+> **The Canadian coupon:** use **HEALTHYLIFE10** at checkout for **10% off**. Growth Guys ships **domestically within Canada** (no border risk) and uses independent third-party lab testing. Verified August 2026.
 
 `Domestic Canada · 10% off · verified monthly
 **HEALTHYLIFE10**`

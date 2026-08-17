@@ -2,7 +2,7 @@
 
 _Does the HEALTHYLIFE10 Growth Guys code still work after the move to growthguys.com? Yes — 10% off, verified July 2026. Here's why a domain change doesn't affect discount codes, and the real reasons a code fails at checkout. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/healthylife10-code-growthguys-com-domain-change.html · Updated: July 28, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/healthylife10-code-growthguys-com-domain-change.html · Updated: July 28, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Does HEALTHYLIFE10 still work now that Growth Guys is on growthguys.com?** Yes. The code still takes **10% off** at checkout on the new domain (verified July 2026). A discount code lives in the store's checkout system, not in the web address, so moving from *growthguys.is* to *growthguys.com* left every code untouched.
@@ -37,7 +37,7 @@ When a code fails at checkout, people reach for the most recent change they can 
 
 - **The promotion ended.** Codes are dated, which is why the ones you find on aggregator sites are so often dead.
 
-Our view on why so many listed codes fail in the first place is set out in [our check on whether HEALTHYLIFE10 is a valid code](https://torontohealthsource.github.io/articles/is-healthylife10-a-valid-growth-guys-code.html).
+Our view on why so many listed codes fail in the first place is set out in [our check on whether HEALTHYLIFE10 is a valid code](https://growthguyscanada.coupons/articles/is-healthylife10-a-valid-growth-guys-code.html).
 
 ## How to use it on the new address
 
@@ -55,7 +55,7 @@ One practical note for late July 2026: the store is currently showing a notice t
 
 - **Confirm the discount on screen** before paying.
 
-New to the address change? Start with [what changed and how to verify the real site](https://torontohealthsource.github.io/articles/growth-guys-new-domain-growthguys-com.html).
+New to the address change? Start with [what changed and how to verify the real site](https://growthguyscanada.coupons/articles/growth-guys-new-domain-growthguys-com.html).
 
 Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you. For research and educational purposes only. Not medical advice.
 

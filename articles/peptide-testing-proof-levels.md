@@ -2,7 +2,7 @@
 
 _There are five levels of proof that a peptide matches its label, from a vendor-posted COA up to testing your own vial. Here's what each level rules out, and how to tell which one you actually have._
 
-Source: https://torontohealthsource.github.io/articles/peptide-testing-proof-levels.html · Updated: July 30, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/peptide-testing-proof-levels.html · Updated: July 30, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **How do you actually prove a peptide is what the label says?** There are five levels of proof, weakest to strongest: a vendor-posted COA, a COA that resolves on the testing lab's own portal, a COA whose client name and batch match your physical vial, independent blind testing, and testing your own vial yourself. Most buyers stop at level one.

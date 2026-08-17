@@ -6,6 +6,6 @@ The owned, canonical content hub for TorontoHealth — free educational guides o
 
 **Strategy:** this is the anti-fragile core (a property we own). Syndicated copies on Blogger/Tumblr/Dev.to/etc. set their `canonical_url` back to pages here, concentrating Google authority on the hub and dodging the 2026 parasite-SEO de-indexing that's killing affiliate content on borrowed domains.
 
-**Before go-live:** find-replace `torontohealthsource.github.io` with the real GitHub Pages URL across all files, then submit `sitemap.xml` in Google Search Console.
+**Before go-live:** find-replace `growthguyscanada.coupons` with the real GitHub Pages URL across all files, then submit `sitemap.xml` in Google Search Console.
 
 *For research and educational purposes only. Not medical advice. Affiliate links disclosed.*

@@ -2,7 +2,7 @@
 
 _Growth Guys has moved from growthguys.is to growthguys.com. The old address still forwards, and the HEALTHYLIFE10 code still gives 10% off. Here's how to confirm you're on the real store after a domain change. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/growth-guys-new-domain-growthguys-com.html · Updated: July 28, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-new-domain-growthguys-com.html · Updated: July 28, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Has Growth Guys changed its website address?** Yes. Growth Guys now operates at **growthguys.com**. The older **growthguys.is** address still forwards to it, so old bookmarks and links continue to land in the right place — we confirmed the forward on 27 July 2026. Discount codes are unaffected: **HEALTHYLIFE10** still takes 10% off at checkout on the new address.

@@ -2,7 +2,7 @@
 
 _The communication red flags that reveal a peptide vendor, and the one question that exposes them. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/peptide-vendor-communication-red-flags.html · Updated: July 8, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/peptide-vendor-communication-red-flags.html · Updated: July 8, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** How a vendor answers a simple testing question tells you more than its entire homepage. Evasiveness is the tell.

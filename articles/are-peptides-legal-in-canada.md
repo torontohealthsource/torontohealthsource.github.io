@@ -2,7 +2,7 @@
 
 _A plain, neutral explainer of how peptides are regulated in Canada in 2026 — research chemicals vs. approved drugs, the Health Canada position, and what it means for buyers. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/are-peptides-legal-in-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/are-peptides-legal-in-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** It's a grey area. Most research peptides are **not approved by Health Canada for human use**, and selling them *for human consumption* is not permitted. They are widely sold and bought as **"research chemicals" for laboratory and educational purposes only**. This page explains the distinction — it is general information, not legal advice.

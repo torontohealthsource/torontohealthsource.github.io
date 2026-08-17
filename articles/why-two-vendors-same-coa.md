@@ -2,7 +2,7 @@
 
 _If two different vendors show the same Certificate of Analysis, here's what's actually going on — COA reuse, theft, and shared suppliers — and what it means for you._
 
-Source: https://torontohealthsource.github.io/articles/why-two-vendors-same-coa.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/why-two-vendors-same-coa.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** usually one of three things — **COA theft** (one vendor posted another's genuine document), **COA reuse** (a shared supplier's single test passed around), or both vendors genuinely buy from the **same source** and show its lab report. Only the third is benign, and you often can't tell which it is from the PDF alone.

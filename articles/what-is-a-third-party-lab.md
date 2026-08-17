@@ -2,7 +2,7 @@
 
 _What a third-party testing lab is, how it differs from in-house testing, and why independence is the whole point. Educational only._
 
-Source: https://torontohealthsource.github.io/articles/what-is-a-third-party-lab.html · Updated: July 8, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/what-is-a-third-party-lab.html · Updated: July 8, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** A third-party lab is one with no financial stake in the outcome — it didn't make the product and doesn't profit if the result passes. That independence is the entire value.

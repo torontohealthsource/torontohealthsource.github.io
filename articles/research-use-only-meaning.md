@@ -2,7 +2,7 @@
 
 _Almost every peptide is labelled 'research use only / not for human consumption.' Here's what that label actually means, why vendors use it, and what it implies for buyers in Canada._
 
-Source: https://torontohealthsource.github.io/articles/research-use-only-meaning.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/research-use-only-meaning.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** "Research use only" (or "not for human consumption") is a **legal-status label**, not a quality claim. It signals the product is sold as a **laboratory research chemical** — not an approved drug or supplement — which is how vendors operate without Health Canada drug authorization. It tells you about the regulatory category, nothing about purity. This is general information, not legal or medical advice.

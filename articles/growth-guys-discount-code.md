@@ -10,7 +10,7 @@ Source: https://growthguyscanada.coupons/articles/growth-guys-discount-code.html
 `Apply at checkout · 10% off · verified monthly
 **HEALTHYLIFE10**`
 
-[Use the code on the verified vendor →](https://growthguys.netlify.app)
+[Use the code on the verified vendor →](https://growthguys.coupons)
 
 ## How to apply it (10 seconds)
 

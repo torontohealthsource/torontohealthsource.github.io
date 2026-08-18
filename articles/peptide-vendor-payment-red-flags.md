@@ -32,7 +32,7 @@ Payment is one signal. Pair it with these before you spend anything:
 
 - **A refund or reshipment policy in writing.** "All sales final, crypto only" is the combination that leaves you with zero recourse.
 
-- **An independent-lab COA you can verify.** See the vendor-vetting checklist on the [resource page](https://growthguys.netlify.app).
+- **An independent-lab COA you can verify.** See the vendor-vetting checklist on the [resource page](https://growthguys.coupons).
 
 - **Consistent contact details.** A support channel that answers specific questions with specific answers may point to a real team behind the site rather than an anonymous reseller.
 
@@ -42,7 +42,7 @@ A useful gut check: count your *reversible* payment options. If the answer is ze
 
 ## Where to take this next
 
-If you want the full checklist in one place — payment, COA, batch matching, and domestic shipping — grab the free vendor-vetting quiz and COA checklist on the [resource page](https://growthguys.netlify.app). It's the same list I run before I order anything.
+If you want the full checklist in one place — payment, COA, batch matching, and domestic shipping — grab the free vendor-vetting quiz and COA checklist on the [resource page](https://growthguys.coupons). It's the same list I run before I order anything.
 
 **Affiliate disclosure:** Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.
 

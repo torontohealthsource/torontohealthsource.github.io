@@ -37,7 +37,7 @@ Smart Canadian buyers keep a short list of two or three domestic vendors that (a
 
 If you want a starting point, the vendor we point to uses genuine independent third-party testing, and there's a standing discount.
 
-> **Code:** HEALTHYLIFE10 — 10% off · [see the vendor →](https://growthguys.netlify.app)
+> **Code:** HEALTHYLIFE10 — 10% off · [see the vendor →](https://growthguys.coupons)
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html) · [Free vendor-check quiz](/vendor-quiz.html)
 

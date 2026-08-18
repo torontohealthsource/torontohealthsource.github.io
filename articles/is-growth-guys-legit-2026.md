@@ -31,11 +31,11 @@ The honest, boring answer is that you run the same three checks on every vendor 
 
 - **Compare, don't crown.** No vendor is "the best" forever; the one that can *prove* its documentation this month is the one worth your money.
 
-- **Use a written checklist** so you evaluate every vendor the same way. There's a free one on the [resource page](https://growthguys.netlify.app).
+- **Use a written checklist** so you evaluate every vendor the same way. There's a free one on the [resource page](https://growthguys.coupons).
 
 ## Is the HEALTHYLIFE10 code still working?
 
-Yes — **HEALTHYLIFE10** takes 10% off at Growth Guys, verified July 2026. Most peptide vendors sit at a flat 10% affiliate rate right now, so the discount is competitive rather than unusual. Think of the code as a small bonus *after* you've decided the vendor passes your checks — never as the reason to skip them. You can confirm the current code and the vetting checklist on the [resource page](https://growthguys.netlify.app).
+Yes — **HEALTHYLIFE10** takes 10% off at Growth Guys, verified July 2026. Most peptide vendors sit at a flat 10% affiliate rate right now, so the discount is competitive rather than unusual. Think of the code as a small bonus *after* you've decided the vendor passes your checks — never as the reason to skip them. You can confirm the current code and the vetting checklist on the [resource page](https://growthguys.coupons).
 
 ## The honest bottom line
 

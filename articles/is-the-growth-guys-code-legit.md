@@ -26,7 +26,7 @@ That's the honest test for *any* code: a real one discounts your cart before pay
 
 A working code on a vendor you can't trust is a worse deal than no code at all. The peptide space has a real problem with vendors faking or reusing lab tests. So before celebrating 10% off, make sure the vendor behind it actually uses **independent, verifiable testing**. We explain exactly what to look for in [how to read a COA](/articles/how-to-read-a-peptide-coa.html) — and the reason this code points where it does is that the vendor uses genuine third-party testing.
 
-[Use the verified code →](https://growthguys.netlify.app)
+[Use the verified code →](https://growthguys.coupons)
 
 Not sure about a vendor? [Run the free 60-second vendor check →](/vendor-quiz.html)
 

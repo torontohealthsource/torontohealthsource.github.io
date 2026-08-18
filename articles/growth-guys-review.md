@@ -28,7 +28,7 @@ A good vendor doesn't excuse you from diligence. Run the same checks I'd run on 
 `Apply at checkout · 10% off · verified August 2026
 **HEALTHYLIFE10**`
 
-[Use the code →](https://growthguys.netlify.app)
+[Use the code →](https://growthguys.coupons)
 
 ## Common questions
 

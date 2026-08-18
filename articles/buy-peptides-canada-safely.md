@@ -34,7 +34,7 @@ Don't marry one vendor. Keep two or three that ship domestically and pass the te
 `Domestic · independent testing · 10% off
 **HEALTHYLIFE10**`
 
-[See the vendor →](https://growthguys.netlify.app)
+[See the vendor →](https://growthguys.coupons)
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 

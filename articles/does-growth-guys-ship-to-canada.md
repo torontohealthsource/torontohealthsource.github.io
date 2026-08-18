@@ -27,7 +27,7 @@ Domestic shipping is necessary but not sufficient. Run this quick pass on any ve
 
 ## Is the HEALTHYLIFE10 code still working?
 
-As of July 2026, **HEALTHYLIFE10** takes 10% off at Growth Guys. Codes come and go, so this page carries a "verified" month — if you're reading it much later, use the date as the freshness stamp. For transparency, this is my affiliate code; the price you pay doesn't change whether you use it or not. You can see the plain terms on the [bridge page](https://growthguys.netlify.app).
+As of July 2026, **HEALTHYLIFE10** takes 10% off at Growth Guys. Codes come and go, so this page carries a "verified" month — if you're reading it much later, use the date as the freshness stamp. For transparency, this is my affiliate code; the price you pay doesn't change whether you use it or not. You can see the plain terms on the [bridge page](https://growthguys.coupons).
 
 ## Domestic vs overseas: why Canadians pay a little more on purpose
 

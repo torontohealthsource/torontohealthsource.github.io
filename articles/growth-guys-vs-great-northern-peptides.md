@@ -55,7 +55,7 @@ If you're ordering from Growth Guys, the 10% from **HEALTHYLIFE10** is real and 
 
 ## Where to take this next
 
-The full vendor-vetting checklist — payment, COA, batch matching, and shipping origin — is free on the [resource page](https://growthguys.netlify.app), along with the vetting quiz.
+The full vendor-vetting checklist — payment, COA, batch matching, and shipping origin — is free on the [resource page](https://growthguys.coupons), along with the vetting quiz.
 
 **Affiliate disclosure:** Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.
 

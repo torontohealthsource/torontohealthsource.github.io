@@ -34,11 +34,11 @@ You can't control CBSA's queue, but you can avoid entering it:
 
 - **Confirm where it ships FROM, not just to.** "Ships to Canada" and "ships from within Canada" are different claims — ask directly.
 
-- **Check the vendor's documentation first.** Domestic shipping only helps if the product itself is verifiable — use the COA checklist on the [resource page](https://growthguys.netlify.app).
+- **Check the vendor's documentation first.** Domestic shipping only helps if the product itself is verifiable — use the COA checklist on the [resource page](https://growthguys.coupons).
 
 ## Why this ties back to vendor choice
 
-Customs risk isn't really a shipping problem — it's a sourcing decision made upstream. Choosing a domestic Canadian vendor is the single move that takes the border out of the equation. If you want the full vetting list, including how to confirm a vendor genuinely ships from inside Canada, it's on the [resource page](https://growthguys.netlify.app).
+Customs risk isn't really a shipping problem — it's a sourcing decision made upstream. Choosing a domestic Canadian vendor is the single move that takes the border out of the equation. If you want the full vetting list, including how to confirm a vendor genuinely ships from inside Canada, it's on the [resource page](https://growthguys.coupons).
 
 **Affiliate disclosure:** Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.
 

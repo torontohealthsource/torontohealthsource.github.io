@@ -10,7 +10,7 @@ Source: https://growthguyscanada.coupons/articles/growth-guys-coupon-canada.html
 `Domestic Canada · 10% off · verified monthly
 **HEALTHYLIFE10**`
 
-[Use the coupon →](https://growthguys.netlify.app)
+[Use the coupon →](https://growthguys.coupons)
 
 ## How to use it
 

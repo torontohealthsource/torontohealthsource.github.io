@@ -967,6 +967,8 @@ dated cart screenshot is evidence. The evidence for these codes lives on the
 [verified code page](https://growthguys.coupons/) and is refreshed every month; if any
 code fails a check, this page says so the same day.
 
+Every automated test — pass or fail — is also recorded in the [public verification log](/verification-log.html).
+
 ## Which code should you actually type?
 
 Whichever you'll remember at checkout — they are interchangeable at the same 10%. If you're

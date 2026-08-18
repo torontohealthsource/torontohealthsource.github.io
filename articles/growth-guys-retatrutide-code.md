@@ -48,6 +48,8 @@ guide](/articles/peptide-coa-batch-number-matching.html) shows how), and run the
 
 **Where do I see the proof the code works?** The [verified code page](https://growthguys.coupons/) keeps a dated checkout screenshot, updated monthly.
 
+**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
+
 *Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.*
 
 *For research and educational purposes only. Not medical advice.*

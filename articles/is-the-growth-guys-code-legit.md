@@ -33,4 +33,5 @@ Not sure about a vendor? [Run the free 60-second vendor check →](/vendor-quiz.
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you. For research and educational purposes only. Not medical advice._
+_**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
+Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you. For research and educational purposes only. Not medical advice._

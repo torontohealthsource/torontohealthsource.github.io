@@ -41,6 +41,8 @@ Yes — **HEALTHYLIFE10** takes 10% off at Growth Guys, verified July 2026. Most
 
 Growth Guys is a legitimate, operating vendor. "Legit" gets you in the door; verification is what keeps you safe once you're there. Run the three checks, and if it clears them for the product you want, HEALTHYLIFE10 saves you 10% on the way out.
 
+**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
+
 **Affiliate disclosure:** Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.
 
 **Note:** For research and educational purposes only. Not medical advice.

@@ -14,9 +14,9 @@ $9.00 off a $90.00 CAD cart. Checkout accepts one code per order.
 
 | Code | Advertised | Cart-test status (Aug 2026) |
 | --- | --- | --- |
-| **HEALTHYLIFE10** | 10% sitewide | ✅ Tested Aug 18, 2026 — $9.00 off $90.00 CAD, screenshot on the [verified code page](https://growthguys.coupons/) |
-| **CANADA** | 10% sitewide | ✅ Tested Aug 18, 2026 — $9.00 off $90.00 CAD |
-| **PEPTIDES** | 10% sitewide | ✅ Tested Aug 18, 2026 — $9.00 off $90.00 CAD |
+| **HEALTHYLIFE10** | 10% sitewide | ✅ Tested August 18, 2026 — $9.00 off $90.00 CAD, screenshot on the [verified code page](https://growthguys.coupons/) |
+| **CANADA** | 10% sitewide | ✅ Tested August 18, 2026 — $9.00 off $90.00 CAD |
+| **PEPTIDES** | 10% sitewide | ✅ Tested August 18, 2026 — $9.00 off $90.00 CAD |
 | SST10 / SAVE10 / Gpeps | 10% | Other affiliates' codes at the same flat rate — not tested by this site |
 | TRIPLE20, GIMME10, WB20, BF20, GROWTH10, VIP10 variants | 10–35% | ❌ Aggregator-listed with no issuer, no date, no cart math — see [the 20%-off check](/articles/growth-guys-20-percent-off-code.html) |
 

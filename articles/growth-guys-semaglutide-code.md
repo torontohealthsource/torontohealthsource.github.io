@@ -57,7 +57,6 @@ Canadian store; all are cart-tested monthly with dated proof in the
 
 **Does the code work on semaglutide bundles?** Yes — the 10% comes off the whole subtotal, bundles included, with no cap.
 
-*Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.*
 
 *For research and educational purposes only. Not medical advice.*
 
@@ -68,4 +67,4 @@ Canadian store; all are cart-tested monthly with dated proof in the
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. Posts may contain affiliate links — the price you pay does not change._
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. _

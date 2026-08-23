@@ -68,4 +68,4 @@ Reading a COA isn't about trusting a PDF — it's about asking *whose* sample, v
 Related guides[How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html) · [Free vendor-check quiz](/vendor-quiz.html)
 
 ---
-_Affiliate disclosure: this site is reader-supported; if you use a vendor I mention with my code (HEALTHYLIFE10), I may earn a small commission at no extra cost to you. For research and educational purposes only. Not medical advice._
+_For research and educational purposes only. Not medical advice._

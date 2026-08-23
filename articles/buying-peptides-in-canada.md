@@ -42,4 +42,4 @@ If you want a starting point, the vendor we point to uses genuine independent th
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html) · [Free vendor-check quiz](/vendor-quiz.html)
 
 ---
-_Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you. For research and educational purposes only. Not medical advice. Peptides discussed here are not approved for human use in Canada._
+_For research and educational purposes only. Not medical advice. Peptides discussed here are not approved for human use in Canada._

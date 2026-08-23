@@ -25,4 +25,4 @@ Because no regulator vets these products, the label actually *raises* the import
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational information, not legal or medical advice. Peptides discussed are not approved for human use in Canada. Posts may contain affiliate links._
+_General educational information, not legal or medical advice. Peptides discussed are not approved for human use in Canada._

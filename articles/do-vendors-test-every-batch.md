@@ -29,4 +29,4 @@ A "batch" (or lot) is one production run. True per-batch testing means each lot 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational patterns, not claims about any specific company. For research and educational purposes only. Not medical advice. Posts may contain affiliate links._
+_General educational patterns, not claims about any specific company. For research and educational purposes only. Not medical advice._

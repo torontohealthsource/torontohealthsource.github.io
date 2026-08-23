@@ -44,8 +44,6 @@ A useful gut check: count your *reversible* payment options. If the answer is ze
 
 If you want the full checklist in one place — payment, COA, batch matching, and domestic shipping — grab the free vendor-vetting quiz and COA checklist on the [resource page](https://growthguys.coupons). It's the same list I run before I order anything.
 
-**Affiliate disclosure:** Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.
-
 **Note:** For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
@@ -55,4 +53,4 @@ If you want the full checklist in one place — payment, COA, batch matching, an
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. Posts may contain affiliate links — the price you pay does not change._
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. _

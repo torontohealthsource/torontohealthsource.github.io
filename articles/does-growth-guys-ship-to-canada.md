@@ -10,8 +10,6 @@ Source: https://growthguyscanada.coupons/articles/does-growth-guys-ship-to-canad
 Updated July 2026 ·
 **Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
 
-Affiliate disclosure below.
-
 ## What "ships to Canada" actually solves
 
 Here's what most people miss when they ask this question: they think they're asking about delivery speed. They're really asking about the border. A vendor based outside Canada has to send a parcel through customs, and that's where holds, delays, and seizures happen. A Canada-domestic vendor sidesteps that entirely — nothing is imported, so there's nothing for customs to stop. We break down that border side separately in [peptides and Canada customs](/articles/peptides-canada-customs.html).
@@ -60,4 +58,4 @@ That higher domestic price isn't just markup for its own sake. Independent repor
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. Posts may contain affiliate links — the price you pay does not change._
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. _

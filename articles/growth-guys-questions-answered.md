@@ -59,7 +59,6 @@ pattern changes. Every factual claim above traces to a dated cart test or a link
 here's what most people get wrong about coupon pages: the format isn't the trust signal, the
 dates are.
 
-*Affiliate disclosure: I may earn a small commission if you use my code, at no extra cost to you.*
 
 *For research and educational purposes only. Not medical advice.*
 
@@ -70,4 +69,4 @@ dates are.
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. Posts may contain affiliate links — the price you pay does not change._
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. _

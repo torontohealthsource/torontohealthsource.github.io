@@ -62,4 +62,4 @@ text is most verified, not to product quality or testing. Run the
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Is HEALTHYLIFE10 a valid code?](/articles/is-healthylife10-a-valid-growth-guys-code.html) · [Growth Guys promo code on Reddit](/articles/growth-guys-promo-code-reddit.html)
 
 ---
-_General educational information, not claims about any specific company. AI Overview content is Google's own output and can change; this page reflects what was observed on the date above. For research and educational purposes only. Not medical advice. Posts may contain affiliate links — the price you pay does not change._
+_General educational information, not claims about any specific company. AI Overview content is Google's own output and can change; this page reflects what was observed on the date above. For research and educational purposes only. Not medical advice. _

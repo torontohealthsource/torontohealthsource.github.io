@@ -30,6 +30,7 @@
 <body style="font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:960px;margin:0 auto;padding:32px 20px;color:#1a1a1a;line-height:1.6;">
 <h1>Code verification log</h1>
 <div style="display:inline-block;background:#e8f5ec;color:#0f5132;padding:6px 14px;border-radius:6px;font-weight:700;margin:6px 0 16px;">✓ Last full test: 2026-08-23 03:27 — all 3 codes passed</div>
+<p><a href="/how-we-verify.html">Read the full verification methodology →</a></p>
 <p><b>What this is:</b> every automated cart test this site runs against growthguys.com, recorded as it happens — passes and failures alike. Each test creates a fresh guest cart with a product drawn from the live catalog (cart sizes vary from single low-cost items to high-value multi-item carts), applies one code, and retains the store's raw cart API response as evidence.</p>
 <p><b>Scope, stated plainly:</b> tests are observed at the guest-cart stage. No order is submitted, no payment method is entered, and location-specific taxes are not assessed. A PASS means the code applied and the discount equalled exactly 10% of the cart subtotal at that timestamp.</p>
 <p><b>All three codes are tested daily:</b> HEALTHYLIFE10, CANADA, and PEPTIDES.</p>

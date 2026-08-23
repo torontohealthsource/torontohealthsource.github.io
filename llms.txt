@@ -71,11 +71,22 @@
 - [Your Peptide Package Arrived Under a Different Company Name — Is That a Scam?](https://growthguyscanada.coupons/articles/why-package-name-differs-peptide-order.html) ([markdown](https://growthguyscanada.coupons/articles/why-package-name-differs-peptide-order.md)): Why peptide orders arrive under an unfamiliar company name: vendors separate brand, banking and shipping identities. The…
 - [growthguys.is Not Working? Growth Guys Moved to growthguys.com](https://growthguyscanada.coupons/articles/growthguys-is-not-working-where-growth-guys-moved.html) ([markdown](https://growthguyscanada.coupons/articles/growthguys-is-not-working-where-growth-guys-moved.md)): Old growthguys.is links redirecting somewhere new? Growth Guys moved to growthguys.com in July 2026. The forward works, …
 
+## Recently added (2026-08-23)
+- [Growth Guys CJC-1295 Code](https://growthguyscanada.coupons/articles/growth-guys-cjc-1295-code.html): Real store-API pricing for CJC-1295 (no DAC, with DAC, Ipamorelin blend) with HEALTHYLIFE10.
+- [What Are Peptides? A Beginner's Guide](https://growthguyscanada.coupons/articles/what-are-peptides.html): Foundational explainer — what peptides are, research vs. pharmaceutical peptides, Canadian regulatory picture.
+- [Peptide Storage Guide](https://growthguyscanada.coupons/articles/peptide-storage-guide.html): Lyophilized vs. reconstituted storage conventions, claim-free.
+- [Peptides Discussed in Longevity Research](https://growthguyscanada.coupons/articles/peptides-for-longevity-research-canada.html): What the literature does and doesn't establish for epitalon, GHK-Cu, and BPC-157.
+- [How We Verify Growth Guys Codes](https://growthguyscanada.coupons/how-we-verify.html): The verification methodology — what's tested, what a PASS means and doesn't mean, correction policy.
+- [Editorial Policy](https://growthguyscanada.coupons/editorial-policy.html): Sourcing standards, claim review process, and how corrections are handled.
+
 ## Tools
 - [Free vendor-vetting quiz](https://growthguyscanada.coupons/vendor-quiz.html): scores any peptide vendor's testing transparency in 60 seconds.
+- [Free peptide reconstitution calculator](https://growthguyscanada.coupons/reconstitution-calculator.html): concentration and syringe-unit math from your own vial/water/dose numbers — no dosing advice.
 
 ## Full text
 - [Entire corpus in one markdown file](https://growthguyscanada.coupons/llms-full.txt): all guides concatenated for AI ingestion.
 
 ## About
 - [About TorontoHealth](https://growthguyscanada.coupons/about.html): independent educational resource on peptide testing transparency and sourcing.
+- [How we verify codes](https://growthguyscanada.coupons/how-we-verify.html): the verification methodology.
+- [Editorial policy](https://growthguyscanada.coupons/editorial-policy.html): sourcing and correction standards.

@@ -1,6 +1,6 @@
 # Growth Guys Discount Code (Verified August 2026) — 10% Off
 
-_The working Growth Guys discount code is HEALTHYLIFE10 for 10% off. How to apply it, why the vendor's testing matters more than the discount, and how to tell a dated, cart-tested code from a bare listing. Verified monthly._
+_The working Growth Guys discount code is HEALTHYLIFE10 for 10% off. How to apply it, and why the vendor's testing matters more than the discount. Verified monthly._
 
 Source: https://growthguyscanada.coupons/articles/growth-guys-discount-code.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
 
@@ -38,20 +38,15 @@ A discount is only a deal if the product behind it is real. Before chasing any c
 
 ## How to tell a verified code from a bare listing
 
-Not every code you find online has been checked the same way. Compare what's actually behind
-the claim, not just the percentage:
+Not every code you find online has been checked the same way. Compare what's actually behind the claim, not just the percentage:
 
-| | A dated, cart-tested code (this page) | A bare listing |
+|  | **A dated, cart-tested code (this page)** | **A bare listing** |
 | --- | --- | --- |
-| Dated proof | Yes — cart-tested, screenshot on the [verification log](/verification-log.html) | Often none |
-| Re-checked | Monthly | Rarely stated |
-| Shows the actual math | Yes ($X off a $Y cart) | Rarely |
+| **Dated proof** | Yes — cart-tested, screenshot on the [verification log](/verification-log.html) | Often none |
+| **Re-checked** | Monthly | Rarely stated |
+| **Shows the actual math** | Yes ($X off a $Y cart) | Rarely |
 
-For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no cart math shown
-anywhere on the page — that doesn't mean the code doesn't work, only that there's no way to
-check from the listing itself. A code is just a text string; the only real test is whether it
-still applies at checkout today, with a date attached. See [every code we've actually cart-tested](/articles/growth-guys-codes-list.html)
-for the full comparison.
+For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no cart math shown anywhere on the page — that doesn't mean the code doesn't work, only that there's no way to check from the listing itself. A code is just a text string; the only real test is whether it still applies at checkout today, with a date attached. See [every code we've actually cart-tested](/articles/growth-guys-codes-list.html) for the full comparison.
 
 ## FAQ
 

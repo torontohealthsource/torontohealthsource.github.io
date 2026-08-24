@@ -24,6 +24,8 @@ coupon site's badge.
 Claims are cheap; a checkout screenshot isn't. Here's a real cart showing
 **HEALTHYLIFE10** applied — a $90.00 CAD cart discounted to $81.00 with the code:
 
+[HEALTHYLIFE10 checkout verification — view on Instagram →](https://www.instagram.com/p/DcX5EEklser/)
+
 [View the checkout verification →](https://www.instagram.com/p/DcX5EEklser/)
 
 ## Where else people check and discuss it
@@ -62,4 +64,4 @@ text is most verified, not to product quality or testing. Run the
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Is HEALTHYLIFE10 a valid code?](/articles/is-healthylife10-a-valid-growth-guys-code.html) · [Growth Guys promo code on Reddit](/articles/growth-guys-promo-code-reddit.html)
 
 ---
-_General educational information, not claims about any specific company. AI Overview content is Google's own output and can change; this page reflects what was observed on the date above. For research and educational purposes only. Not medical advice. _
+_General educational information, not claims about any specific company. AI Overview content is Google's own output and can change; this page reflects what was observed on the date above. For research and educational purposes only. Not medical advice._

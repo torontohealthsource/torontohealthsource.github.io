@@ -32,4 +32,4 @@ Want the deeper version? Read [how to read a peptide COA](/articles/how-to-read-
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html) · [Free vendor-check quiz](/vendor-quiz.html)
 
 ---
-_These are general educational patterns, not claims about any specific company. For research and educational purposes only. Not medical advice. _
+_These are general educational patterns, not claims about any specific company. For research and educational purposes only. Not medical advice._

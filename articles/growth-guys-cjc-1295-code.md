@@ -4,7 +4,10 @@ _HEALTHYLIFE10 takes 10% off CJC-1295 at Growth Guys — no DAC, with DAC, and t
 
 Source: https://growthguyscanada.coupons/articles/growth-guys-cjc-1295-code.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
 
-> **Is there a code for CJC-1295 at Growth Guys?** Yes — **HEALTHYLIFE10** applies to all three CJC-1295 listings the same way every other product gets it: a flat 10% off with no exclusions. Verified against the store's live catalog on August 23, 2026.
+
+> **Is there a code for CJC-1295 at Growth Guys?** Yes — **HEALTHYLIFE10** applies to all
+three CJC-1295 listings the same way every other product gets it: a flat 10% off with no
+exclusions. Verified against the store's live catalog on August 23, 2026.
 
 ## What does CJC-1295 cost at Growth Guys with the code?
 
@@ -16,15 +19,26 @@ Pulled directly from the store's current catalog, not estimated:
 | CJC-1295 with DAC — 5mg | $50.00 CAD | **$45.00 CAD** (−$5.00) |
 | CJC-1295 no DAC + Ipamorelin blend | $75.00 CAD | **$67.50 CAD** (−$7.50) |
 
-The code reduces the subtotal, so it applies before the store's free-shipping threshold is calculated — check the live cart for the current threshold.
+The code reduces the subtotal, so it applies before the store's free-shipping threshold is
+calculated — check the live cart for the current threshold.
 
 ## No DAC vs. with DAC — the actual difference
 
-This is a research-chemistry distinction people mix up, not a usage question: DAC (Drug Affinity Complex) extends the compound's half-life to roughly 8 days, versus about 30 minutes without it. That changes the pharmacokinetic profile the listing describes — it isn't a "better/worse" choice, it's a different specification. Read the listing itself for the exact molecular details before ordering; this page covers pricing, not use.
+This is a research-chemistry distinction people mix up, not a usage question: DAC (Drug
+Affinity Complex) extends the compound's half-life to roughly 8 days, versus about 30 minutes
+without it. That changes the pharmacokinetic profile the listing describes — it isn't a
+"better/worse" choice, it's a different specification. Read the listing itself for the exact
+molecular details before ordering; this page covers pricing, not use.
 
 ## What should I check before ordering CJC-1295 from any vendor?
 
-Price is the last thing to compare, not the first. Growth Guys publishes a Janoshik Analytical certificate of analysis per batch — before ordering from anyone, confirm the COA matches the batch you'd receive (our [batch-matching guide](/articles/peptide-coa-batch-number-matching.html) shows how), and run the store through the [vendor-vetting quiz](/vendor-quiz.html). If you're reconstituting, the [free reconstitution calculator](/reconstitution-calculator.html) does the concentration and syringe-unit math from your own vial and water numbers.
+Price is the last thing to compare, not the first. Growth Guys publishes a Janoshik
+Analytical certificate of analysis per batch — before ordering from anyone, confirm the COA
+matches the batch you'd receive (our [batch-matching
+guide](/articles/peptide-coa-batch-number-matching.html) shows how), and run the store through the
+[vendor-vetting quiz](/vendor-quiz.html). If you're reconstituting, the
+[free reconstitution calculator](/reconstitution-calculator.html) does the
+concentration and syringe-unit math from your own vial and water numbers.
 
 ## FAQ
 
@@ -40,7 +54,13 @@ Price is the last thing to compare, not the first. Growth Guys publishes a Janos
 
 **Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are cart-tested daily; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
 
+*For research and educational purposes only. Not medical advice.*
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+[Or use the free reconstitution calculator →](/reconstitution-calculator.html)
+
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_For research and educational purposes only. Not medical advice. General educational information, not claims about any specific company._
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

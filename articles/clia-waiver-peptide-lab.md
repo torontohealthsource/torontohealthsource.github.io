@@ -46,4 +46,4 @@ More on judging labs and results: [independent vs in-house testing](/articles/ja
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. _
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

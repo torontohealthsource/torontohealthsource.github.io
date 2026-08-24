@@ -59,7 +59,6 @@ pattern changes. Every factual claim above traces to a dated cart test or a link
 here's what most people get wrong about coupon pages: the format isn't the trust signal, the
 dates are.
 
-
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
@@ -69,4 +68,4 @@ dates are.
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. _
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

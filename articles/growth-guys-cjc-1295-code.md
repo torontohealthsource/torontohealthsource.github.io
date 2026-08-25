@@ -2,7 +2,7 @@
 
 _HEALTHYLIFE10 takes 10% off CJC-1295 at Growth Guys — no DAC, with DAC, and the Ipamorelin blend. Real checkout math for all three listings, verified August 2026._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-cjc-1295-code.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-cjc-1295-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Is there a code for CJC-1295 at Growth Guys?** Yes — **HEALTHYLIFE10** applies to all
@@ -57,6 +57,8 @@ concentration and syringe-unit math from your own vial and water numbers.
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or use the free reconstitution calculator →](/reconstitution-calculator.html)
 

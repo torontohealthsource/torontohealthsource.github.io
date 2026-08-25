@@ -2,7 +2,7 @@
 
 _TRIPLE20, GIMME10, WB20 and BF20 promise 20-35% off Growth Guys — but they're aggregator-generated. The verified ceiling is 10% with HEALTHYLIFE10 (checked August 2026)._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-20-percent-off-code.html · Updated: August 18, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-20-percent-off-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Is there a Growth Guys 20% off code?** No. As of August 2026 there is no working sitewide
@@ -62,6 +62,8 @@ If you're vetting the store itself and not just the code, start with our
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

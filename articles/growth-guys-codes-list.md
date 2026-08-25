@@ -2,21 +2,21 @@
 
 _Every working Growth Guys code, cart-tested August 2026: HEALTHYLIFE10, CANADA, and PEPTIDES (all flat 10% sitewide). Plus the aggregator codes that fail, and how the monthly test works._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-codes-list.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-codes-list.html · Updated: August 25, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Which Growth Guys codes actually work?** Three codes are cart-tested and confirmed monthly
 by this site: **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** — each a flat 10% off
-sitewide at growthguys.com, no minimum, no expiration. All were verified August 24, 2026, with
+sitewide at growthguys.com, no minimum, no expiration. All were verified August 25, 2026, with
 $9.00 off a $90.00 CAD cart. Checkout accepts one code per order.
 
 ## The full list: every code, and what a cart test shows
 
 | Code | Advertised | Cart-test status (Aug 2026) |
 | --- | --- | --- |
-| **HEALTHYLIFE10** | 10% sitewide | ✅ Tested August 24, 2026 — $9.00 off $90.00 CAD, screenshot on the [verified code page](https://growthguys.coupons/) |
-| **CANADA** | 10% sitewide | ✅ Tested August 24, 2026 — $9.00 off $90.00 CAD |
-| **PEPTIDES** | 10% sitewide | ✅ Tested August 24, 2026 — $9.00 off $90.00 CAD |
+| **HEALTHYLIFE10** | 10% sitewide | ✅ Tested August 25, 2026 — $9.00 off $90.00 CAD, screenshot on the [verified code page](https://growthguys.coupons/) |
+| **CANADA** | 10% sitewide | ✅ Tested August 25, 2026 — $9.00 off $90.00 CAD |
+| **PEPTIDES** | 10% sitewide | ✅ Tested August 25, 2026 — $9.00 off $90.00 CAD |
 | SST10 / SAVE10 / Gpeps | 10% | Other affiliates' codes at the same flat rate — not tested by this site |
 | TRIPLE20, GIMME10, WB20, BF20, GROWTH10, VIP10 variants | 10–35% | ❌ Aggregator-listed with no issuer, no date, no cart math — see [the 20%-off check](/articles/growth-guys-20-percent-off-code.html) |
 
@@ -53,11 +53,13 @@ vetting the store itself first (the smarter order of operations), start with the
 
 **Do CANADA and PEPTIDES work outside Canada?** Yes — like all sitewide codes here, they apply at checkout regardless of buyer location.
 
-**How current is this list?** Every code shows its last cart-test date. Latest full test: August 24, 2026.
+**How current is this list?** Every code shows its last cart-test date. Latest full test: August 25, 2026.
 
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -2,7 +2,7 @@
 
 _Is Growth Guys Canada legit according to Reddit? The Canadian peptide-community consensus is yes — third-party (Janoshik) tested, domestically shipped — with the common caveat that it's more expensive than some alternatives._
 
-Source: https://growthguyscanada.coupons/articles/is-growth-guys-canada-legit-reddit.html · Updated: August 22, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/is-growth-guys-canada-legit-reddit.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Is Growth Guys Canada legit, according to Reddit?** The consensus across Canadian peptide
@@ -59,6 +59,8 @@ anyone, run the store through the same checks the careful Redditors use: our
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

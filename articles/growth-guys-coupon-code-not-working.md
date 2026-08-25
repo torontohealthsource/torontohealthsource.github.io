@@ -2,7 +2,7 @@
 
 _Why most Growth Guys coupon codes fail: aggregator sites generate them. The real codes are flat 10% (HEALTHYLIFE10, verified August 2026), plus the domain-change reason a working code stopped applying._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-coupon-code-not-working.html · Updated: August 18, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-coupon-code-not-working.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Why is my Growth Guys coupon code not working?** Nine times out of ten the code came from a
@@ -131,6 +131,8 @@ instead of them.
 **Note:** For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

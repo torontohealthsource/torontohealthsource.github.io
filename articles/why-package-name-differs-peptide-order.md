@@ -2,7 +2,7 @@
 
 _Why peptide orders arrive under an unfamiliar company name: vendors separate brand, banking and shipping identities. The order chain — order number, payment reference, tracking, lot match — is what actually proves the vendor performed._
 
-Source: https://growthguyscanada.coupons/articles/why-package-name-differs-peptide-order.html · Updated: August 18, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/why-package-name-differs-peptide-order.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Why did my peptide order arrive under a different company name?** Usually because the vendor
@@ -141,6 +141,8 @@ the [resource page](https://growthguys.netlify.app). If you're ordering from Gro
 **Note:** For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

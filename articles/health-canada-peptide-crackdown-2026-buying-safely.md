@@ -37,6 +37,8 @@ Public advisories on canada.ca named unauthorized injectable peptide sellers inc
 No. Growth Guys is not named in any of Health Canada's 2026 advisories. It publishes independent Janoshik lab results and labels products for research use — the same pattern this checklist describes as lower-risk. That's a fact worth verifying yourself rather than taking on faith: check the [verification log](/verification-log.html) and run the [vendor-check quiz](/vendor-quiz.html) before buying from any source, including this one.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

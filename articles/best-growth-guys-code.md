@@ -2,7 +2,7 @@
 
 _Which Growth Guys code is best? HEALTHYLIFE10, CANADA, and PEPTIDES all give a flat 10%, cart-tested monthly with published proof — so 'best' means verified, not biggest. Why 20-35% aggregator codes fail at checkout._
 
-Source: https://growthguyscanada.coupons/articles/best-growth-guys-code.html · Updated: August 21, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/best-growth-guys-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Which Growth Guys code is the best one to use?** All three working codes — HEALTHYLIFE10,
@@ -66,6 +66,8 @@ original and most widely recognized. Full list with live test dates: [every code
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

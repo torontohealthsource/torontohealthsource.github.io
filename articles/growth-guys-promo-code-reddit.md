@@ -2,7 +2,7 @@
 
 _The Growth Guys promo code shared in Reddit peptide threads is HEALTHYLIFE10 — the same public 10% code. No Reddit-exclusive code exists; here's how to check any shared code in 60 seconds._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-promo-code-reddit.html · Updated: August 18, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-promo-code-reddit.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What's the Growth Guys promo code shared on Reddit?** The code that circulates in Reddit
@@ -41,7 +41,8 @@ changing your total. The only questions worth asking:
 A Reddit code at least came from a person. An aggregator code often came from a template. A
 dated, screenshotted checkout test beats both — which is why we maintain one on the
 [verified code page](https://growthguys.coupons/): $9.00 off a $90.00 CAD cart,
-August 18, 2026.
+August 18, 2026. A separate independent test answering this exact "does the Reddit code still
+work on a first order" question landed the same result — [HEALTHYLIFE10 applying cleanly at checkout](https://www.instagram.com/p/DccWC6PkT9i/).
 
 ## Common questions
 
@@ -58,6 +59,8 @@ August 18, 2026.
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

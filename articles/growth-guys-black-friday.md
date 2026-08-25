@@ -2,7 +2,7 @@
 
 _Growth Guys Black Friday 2026: no published history of deep sitewide sales. The verified year-round code is HEALTHYLIFE10 (flat 10%). Updated with dated facts as November approaches._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-black-friday.html · Updated: August 18, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-black-friday.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Does Growth Guys do a Black Friday sale?** There is no published history of deep sitewide
@@ -52,6 +52,8 @@ template guess. Vetting the store itself? Start with the
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

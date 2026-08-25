@@ -2,7 +2,7 @@
 
 _What a third-party testing lab is, how it differs from in-house testing, and why independence is the whole point. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/what-is-a-third-party-lab.html · Updated: July 8, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/what-is-a-third-party-lab.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** A third-party lab is one with no financial stake in the outcome — it didn't make the product and doesn't profit if the result passes. That independence is the entire value.
@@ -24,6 +24,8 @@ The PDF isn't the value — the lack of incentive to fudge it is. A widely used 
 Related: [Janoshik vs in-house](/articles/janoshik-vs-in-house-testing.html) · [spot a fake lab](/articles/how-to-spot-a-fake-testing-lab.html).
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

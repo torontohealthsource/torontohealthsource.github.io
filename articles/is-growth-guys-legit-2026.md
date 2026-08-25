@@ -2,7 +2,7 @@
 
 _Is Growth Guys a real, legitimate peptide vendor in 2026? Yes — and here's how to vet it the same way you'd vet any vendor: verifiable COA, matching batch, domestic shipping. Includes the current HEALTHYLIFE10 code. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/is-growth-guys-legit-2026.html · Updated: July 27, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/is-growth-guys-legit-2026.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Is Growth Guys legit in 2026?** Growth Guys is a real, operating peptide vendor with a live storefront and an affiliate program — it exists and it ships. Whether it's the right choice for you comes down to the same checklist you'd run on any vendor: a verifiable COA, matching batch numbers, and domestic shipping. If you do decide to order, the code **HEALTHYLIFE10** takes 10% off (Verified July 2026).
@@ -33,6 +33,10 @@ The honest, boring answer is that you run the same three checks on every vendor 
 
 - **Use a written checklist** so you evaluate every vendor the same way. There's a free one on the [resource page](https://growthguys.coupons).
 
+## Watch: independent lab testing vs. in-house COA, explained
+
+A quick breakdown of the difference this checklist rests on — what to actually look for on a COA, including matching lot numbers and identifying a genuinely independent third-party lab. Also on [Dailymotion](https://dai.ly/xb0irue).
+
 ## Is the HEALTHYLIFE10 code still working?
 
 Yes — **HEALTHYLIFE10** takes 10% off at Growth Guys, verified July 2026. Most peptide vendors sit at a flat 10% affiliate rate right now, so the discount is competitive rather than unusual. Think of the code as a small bonus *after* you've decided the vendor passes your checks — never as the reason to skip them. You can confirm the current code and the vetting checklist on the [resource page](https://growthguys.coupons).
@@ -46,6 +50,8 @@ Growth Guys is a legitimate, operating vendor. "Legit" gets you in the door; ver
 **Note:** For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

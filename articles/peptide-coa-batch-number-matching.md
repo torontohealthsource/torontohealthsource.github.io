@@ -2,7 +2,7 @@
 
 _Why a peptide COA's batch number must match the number on your vial, where to find it, and what to do if they don't match. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/peptide-coa-batch-number-matching.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/peptide-coa-batch-number-matching.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The core idea:** A COA only describes the specific batch it was run on. If the batch number on the certificate doesn't match the number on your vial, the report isn't about your product.
@@ -22,6 +22,8 @@ A mismatch means the certificate describes some other batch. Regard that as an u
 Related: [COA reuse and theft](/articles/coa-reuse-and-theft.html) · [how to verify a COA](/articles/how-to-verify-a-coa.html).
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

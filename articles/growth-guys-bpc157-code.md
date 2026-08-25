@@ -2,7 +2,7 @@
 
 _HEALTHYLIFE10 gives 10% off BPC-157 at Growth Guys (verified August 2026). On small orders, the $350 CAD free-shipping threshold matters more — here's the math._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-bpc157-code.html · Updated: August 18, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-bpc157-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Is there a discount code for BPC-157 at Growth Guys?** Yes — **HEALTHYLIFE10** gives a
@@ -48,6 +48,8 @@ quiz](/vendor-quiz.html) before you compare prices. A discount on an untested vi
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

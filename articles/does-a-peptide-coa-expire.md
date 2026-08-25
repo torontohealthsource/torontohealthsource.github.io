@@ -2,7 +2,7 @@
 
 _A Certificate of Analysis is a snapshot of one batch on one date. What the date means, why batch-matching beats freshness, and what to ask for. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/does-a-peptide-coa-expire.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/does-a-peptide-coa-expire.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** A COA is a snapshot of one batch tested on one date. It doesn't "expire" like milk — but an old COA tied to a batch you're not actually buying tells you little about the vial in your cart. Batch-matching matters more than the calendar.
@@ -24,6 +24,8 @@ The question that matters: does this COA correspond to the *batch you're receivi
 Related: [COA reuse and theft](/articles/coa-reuse-and-theft.html) · [how to verify a COA](/articles/how-to-verify-a-coa.html).
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

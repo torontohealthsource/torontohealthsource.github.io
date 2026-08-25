@@ -2,16 +2,16 @@
 
 _Growth Guys has moved from growthguys.is to growthguys.com. The old address still forwards, and the HEALTHYLIFE10 code still gives 10% off. Here's how to confirm you're on the real store after a domain change. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-new-domain-growthguys-com.html · Updated: July 28, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-new-domain-growthguys-com.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Has Growth Guys changed its website address?** Yes. Growth Guys now operates at **growthguys.com**. The older **growthguys.is** address still forwards to it, so old bookmarks and links continue to land in the right place — we confirmed the forward on 27 July 2026. Discount codes are unaffected: **HEALTHYLIFE10** still takes 10% off at checkout on the new address.
 
-Updated July 2026 · General educational information, not medical or legal advice.
+Updated August 2026 · General educational information, not medical or legal advice.
 
 ## What actually changed
 
-Only the address bar. The storefront, the catalogue, the published lab results and the checkout are the same operation at a new domain name. A vendor moving from a country-code domain like *.is* to a *.com* is a routine, and frankly overdue, housekeeping move — country-code domains are harder to keep, easier to lose, and get treated with more suspicion by payment processors and search engines alike.
+Only the address bar. The storefront, the catalogue, the published lab results and the checkout are the same operation at a new domain name. A vendor moving from a country-code domain like *.is* to a *.com* is a routine, and frankly overdue, housekeeping move — country-code domains are harder to keep, easier to lose, and get treated with more suspicion by payment processors and search engines alike. The move was also [flagged independently on X](https://x.com/growthguyspeps/status/2082200456948818005) at the time, confirming the code carried over unaffected.
 
 ## Do my old links and bookmarks still work?
 
@@ -60,6 +60,8 @@ Yes. **HEALTHYLIFE10** takes **10% off** at Growth Guys and applies at checkout 
 For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

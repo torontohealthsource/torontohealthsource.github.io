@@ -2,7 +2,7 @@
 
 _HEALTHYLIFE10 takes 10% off retatrutide at Growth Guys: $81.00 CAD on the $90.00 single vial, verified August 2026. No exclusions, no minimum, one code per order._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-retatrutide-code.html · Updated: August 18, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.coupons/articles/growth-guys-retatrutide-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Is there a code for retatrutide at Growth Guys?** Yes — **HEALTHYLIFE10** applies to
@@ -53,6 +53,8 @@ guide](/articles/peptide-coa-batch-number-matching.html) shows how), and run the
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
+[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

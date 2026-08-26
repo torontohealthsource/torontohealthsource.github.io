@@ -2,8 +2,12 @@
 
 _Old growthguys.is links redirecting somewhere new? Growth Guys moved to growthguys.com in July 2026. The forward works, your bookmarks still land, and HEALTHYLIFE10 still gives 10% off. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/growthguys-is-not-working-where-growth-guys-moved.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growthguys-is-not-working-where-growth-guys-moved.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Why isn't growthguys.is loading the way it used to?** Because Growth Guys changed its web address. The store now lives at **growthguys.com**, and the old *.is* address forwards there automatically. Nothing has been lost — your saved links still arrive at the right storefront, and the **HEALTHYLIFE10** code still takes 10% off at checkout.
 
@@ -51,8 +55,8 @@ Yes. **HEALTHYLIFE10** gives **10% off** and works at checkout on the new addres
 For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

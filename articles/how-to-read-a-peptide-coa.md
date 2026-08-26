@@ -2,7 +2,7 @@
 
 _A Certificate of Analysis proves a test happened on some sample — not that it came from your vial. Here's the trust hierarchy and a 6-point checklist before you buy._
 
-Source: https://growthguyscanada.coupons/articles/how-to-read-a-peptide-coa.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/how-to-read-a-peptide-coa.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What is a peptide COA?** A Certificate of Analysis is a lab document reporting what a tested sample contained. The key thing to understand: **a COA proves a test was performed on *some* sample — not that it came from the vial you'll receive, nor that the company showing it is the one who paid for the test.**

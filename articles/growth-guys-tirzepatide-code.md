@@ -2,8 +2,12 @@
 
 _HEALTHYLIFE10 applies to tirzepatide at Growth Guys — flat 10% off the entire subtotal, bundles included, verified August 2026. No tirzepatide-exclusive codes exist._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-tirzepatide-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-tirzepatide-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Is there a Growth Guys code for tirzepatide?** Yes. **HEALTHYLIFE10** takes a flat 10%
 off tirzepatide — and every other listing — at growthguys.com. No product exclusions, no
@@ -53,8 +57,8 @@ batch), and that shipping is domestic to you — our
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

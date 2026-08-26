@@ -2,7 +2,7 @@
 
 _How lyophilized (freeze-dried) peptides differ from reconstituted ones for storage purposes, general handling practices, and why storage conditions matter before you even reach the dosing question._
 
-Source: https://growthguyscanada.coupons/articles/peptide-storage-guide.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptide-storage-guide.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What's the short version?** Lyophilized (freeze-dried) peptides are commonly described as

@@ -2,8 +2,12 @@
 
 _What do people on Reddit actually say about Growth Guys? The honest Canadian consensus: legit, third-party (Janoshik) tested, domestically shipped — but pricier than grey-market alternatives ('legit but expensive'). Balanced praise and criticism, no hype._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-review-reddit-honest.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-review-reddit-honest.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **What do people on Reddit actually say about Growth Guys?** The honest summary from Canadian
 peptide communities: broadly legit, third-party tested, but not the cheapest — the most common
@@ -71,8 +75,8 @@ use: our [60-second vendor-vetting quiz](/vendor-quiz.html) walks them.
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -2,7 +2,7 @@
 
 _A practical framework for judging Canadian peptide vendors in 2026 — domestic shipping, verifiable independent testing, and transparency. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/canadian-peptide-vendors.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/canadian-peptide-vendors.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The framework in one line:** a Canadian vendor worth using ships **domestically** (no border risk), backs its products with **independent testing you can verify yourself**, and answers testing questions **openly**. Everything else is secondary. Research/educational use only.

@@ -2,7 +2,7 @@
 
 _A vendor COA tests a sample the vendor picked. Independent blind testing removes that variable. Here's why it's the gold standard. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/independent-blind-testing-vs-vendor-coa.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/independent-blind-testing-vs-vendor-coa.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** A vendor COA shows a test the vendor chose to run on a sample the vendor chose to send. Independent blind testing means a buyer purchases off-the-shelf, unannounced, and submits it — so the vendor can't hand-pick the vial. That single difference removes what makes a COA gameable.

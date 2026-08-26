@@ -2,7 +2,7 @@
 
 _A captive lab is a testing 'lab' that exists to test for one vendor only — grading its own homework. Here's how to recognize one and why independence is everything._
 
-Source: https://growthguyscanada.coupons/articles/what-is-a-captive-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/what-is-a-captive-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **A captive lab** is a testing "lab" that exists to test for **one vendor only** — often spun up by, or alongside, that vendor. Because it serves a single master, its "independent" results are really the vendor grading its own homework. Independence is the entire value of third-party testing, and a captive lab has none.

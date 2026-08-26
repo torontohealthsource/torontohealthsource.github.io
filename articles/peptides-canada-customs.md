@@ -2,8 +2,12 @@
 
 _What happens when peptides cross the Canadian border: customs seizure risk, importer-of-record status, and why domestic shipping avoids it. Educational only, not legal advice._
 
-Source: https://growthguyscanada.coupons/articles/peptides-canada-customs.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptides-canada-customs.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **What happens if peptides get stopped at Canada customs?** An international peptide parcel can be held or seized, and you become the "importer of record" of an unapproved product. That's the practical reason many Canadian buyers choose a vendor that ships domestically — when nothing crosses the border, there's nothing for customs to stop. Educational information only, not legal advice.
 
@@ -53,8 +57,8 @@ Border safety and testing transparency are two halves of the same decision. Once
 **Is buying direct from overseas cheaper?** Per unit it can look cheaper, but seizure risk, bulk minimums, and no buyer protection usually erase the saving for an individual.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

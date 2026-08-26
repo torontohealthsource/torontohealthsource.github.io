@@ -2,8 +2,12 @@
 
 _For a Canadian buyer, what genuinely differs between domestic and overseas peptide vendors — shipping, the border, and recourse — and what doesn't. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/domestic-vs-overseas-peptide-vendors.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/domestic-vs-overseas-peptide-vendors.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Short answer:** For a Canadian buyer the practical differences are shipping time, the customs question, and your recourse if an order goes wrong. A domestic vendor simplifies all three — but none of that tells you anything about quality. Only testing does.
 
@@ -22,8 +26,8 @@ A smooth, fast domestic delivery of an untested vial is still an untested vial. 
 Related: [peptides and Canadian customs](/articles/peptides-canada-customs.html) · [buying peptides in Canada](/articles/buying-peptides-in-canada.html).
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -2,7 +2,7 @@
 
 _What research literature says — and doesn't say — about epitalon, GHK-Cu, and BPC-157 in longevity contexts. Claim-free summary distinguishing plausible from unproven in humans._
 
-Source: https://growthguyscanada.coupons/articles/peptides-for-longevity-research-canada.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptides-for-longevity-research-canada.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What does "longevity peptide" actually mean?** It's a research-community category

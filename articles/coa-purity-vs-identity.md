@@ -2,7 +2,7 @@
 
 _A COA reports identity and purity separately, and buyers mix them up. What each means and why a high purity number alone can mislead. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/coa-purity-vs-identity.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/coa-purity-vs-identity.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** A COA reports two separate things people constantly confuse. **Identity** = is it the right compound. **Purity** = what percentage of the sample is that compound. A 99% pure sample of the *wrong* molecule is still useless.

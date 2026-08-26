@@ -2,8 +2,12 @@
 
 _Is Growth Guys Canada legit according to Reddit? The Canadian peptide-community consensus is yes — third-party (Janoshik) tested, domestically shipped — with the common caveat that it's more expensive than some alternatives._
 
-Source: https://growthguyscanada.coupons/articles/is-growth-guys-canada-legit-reddit.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/is-growth-guys-canada-legit-reddit.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Is Growth Guys Canada legit, according to Reddit?** The consensus across Canadian peptide
 subreddits is yes — Growth Guys is considered a legitimate, third-party-tested vendor, with the
@@ -36,6 +40,10 @@ level-headed reminder that a good vendor is necessary but not sufficient — you
 own batch. None of these are quality complaints; they're the normal trade-offs of buying tested,
 domestically-shipped product.
 
+This same "legit but expensive" consensus has been flagged independently elsewhere too:
+
+[https://torontohealthsource.tumblr.com/post/825569100817481728](https://torontohealthsource.tumblr.com/post/825569100817481728)
+
 ## Reddit for "is it legit" — but not for "does the code work"
 
 | Question | Best source |
@@ -59,8 +67,8 @@ anyone, run the store through the same checks the careful Redditors use: our
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -2,7 +2,7 @@
 
 _Some vendors run a 'lab' that exists only to test their own products. Here are the captive-lab red flags — domain age, single client, fake verify portals — so you can tell real testing from theatre._
 
-Source: https://growthguyscanada.coupons/articles/how-to-spot-a-fake-testing-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/how-to-spot-a-fake-testing-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The tell in one line:** a "captive" lab exists to test for *one* vendor only — that's grading your own homework. A real independent lab tests for **many competing vendors**. The red flags below help you spot the difference. (These are general patterns, not an accusation about any specific company.)

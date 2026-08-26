@@ -2,7 +2,7 @@
 
 _Most peptide vendors do NOT test every batch — they test once and reuse the COA. Here's how batch testing really works and how to tell if your specific vial was tested._
 
-Source: https://growthguyscanada.coupons/articles/do-vendors-test-every-batch.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/do-vendors-test-every-batch.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer: most don't.** Genuine per-batch testing is expensive, so many vendors test once (or rely on their supplier's single test) and show that **same COA** for everything after. Unless you can tie the certificate to *your* batch, "lab tested" often means "a batch was tested once," not "this vial was tested."

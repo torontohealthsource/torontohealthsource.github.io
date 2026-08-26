@@ -2,8 +2,12 @@
 
 _What drives the price differences between peptide vendors, and why the cheapest option is often a warning sign. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/why-peptide-prices-vary.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/why-peptide-prices-vary.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Short answer:** Price gaps between vendors usually reflect testing, sourcing, and shipping — not a deal. The cheapest vial is often the untested one.
 
@@ -22,8 +26,8 @@ Compare price against verifiable testing, not against price alone. Buying tested
 Related: [cost to test a vial](/articles/cost-to-test-a-peptide-vial.html) · [comparing Canadian vendors](/articles/how-to-compare-canadian-peptide-vendors.html).
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

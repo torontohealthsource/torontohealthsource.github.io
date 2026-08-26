@@ -2,7 +2,7 @@
 
 _How to source peptides in Canada in 2026 — why domestic shipping matters, how to vet a vendor's testing, and what to check before you buy. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/buying-peptides-in-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/buying-peptides-in-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **How do you buy peptides in Canada?** Buy from a **domestic (Canadian) vendor** to avoid customs delays and seizures, and choose one whose purity is confirmed by **independent, third-party lab testing** — not just a PDF the vendor uploaded. Peptides here are sold for **research and educational purposes only**; they are not approved for human use.

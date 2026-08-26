@@ -2,8 +2,12 @@
 
 _Is Growth Guys a real, legitimate peptide vendor in 2026? Yes — and here's how to vet it the same way you'd vet any vendor: verifiable COA, matching batch, domestic shipping. Includes the current HEALTHYLIFE10 code. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/is-growth-guys-legit-2026.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/is-growth-guys-legit-2026.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Is Growth Guys legit in 2026?** Growth Guys is a real, operating peptide vendor with a live storefront and an affiliate program — it exists and it ships. Whether it's the right choice for you comes down to the same checklist you'd run on any vendor: a verifiable COA, matching batch numbers, and domestic shipping. If you do decide to order, the code **HEALTHYLIFE10** takes 10% off (Verified July 2026).
 
@@ -50,8 +54,8 @@ Growth Guys is a legitimate, operating vendor. "Legit" gets you in the door; ver
 **Note:** For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

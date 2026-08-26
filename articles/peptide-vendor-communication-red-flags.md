@@ -2,8 +2,12 @@
 
 _The communication red flags that reveal a peptide vendor, and the one question that exposes them. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/peptide-vendor-communication-red-flags.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptide-vendor-communication-red-flags.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Short answer:** How a vendor answers a simple testing question tells you more than its entire homepage. Evasiveness is the tell.
 
@@ -22,8 +26,8 @@ Deflection, screenshots instead of verifiable links, in-house-only numbers, or p
 Related: [vendor red-flags checklist](/articles/peptide-vendor-red-flags.html) · [how to read a COA](/articles/how-to-read-a-peptide-coa.html).
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

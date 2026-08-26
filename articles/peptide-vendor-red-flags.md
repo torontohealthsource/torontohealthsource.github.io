@@ -2,7 +2,7 @@
 
 _The red flags that separate a trustworthy peptide vendor from one selling on hype — no verifiable testing, captive labs, vague answers, and more. A practical checklist._
 
-Source: https://growthguyscanada.coupons/articles/peptide-vendor-red-flags.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptide-vendor-red-flags.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The fastest red-flag test:** if a vendor's only "proof" is a PDF they uploaded themselves, and the testing lab has no independent footprint, treat it as marketing — not evidence. Below are the seven flags that matter most, in order.

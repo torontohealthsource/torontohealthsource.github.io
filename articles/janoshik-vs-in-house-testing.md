@@ -2,7 +2,7 @@
 
 _Independent third-party testing versus a vendor's own in-house numbers — what the difference means when you're vetting a peptide source. Educational only._
 
-Source: https://growthguyscanada.coupons/articles/janoshik-vs-in-house-testing.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/janoshik-vs-in-house-testing.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The core idea:** An independent lab and a vendor's own in-house testing are not the same thing. Independent testing — for example a widely used third-party lab like Janoshik — means a separate party ran the analysis. In-house means the seller graded its own homework.

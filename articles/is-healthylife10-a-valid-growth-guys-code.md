@@ -2,7 +2,7 @@
 
 _Yes — HEALTHYLIFE10 is a working 10% Growth Guys discount code. Here's how to apply it and how to confirm it's live in 10 seconds. Verified August 2026._
 
-Source: https://growthguyscanada.coupons/articles/is-healthylife10-a-valid-growth-guys-code.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/is-healthylife10-a-valid-growth-guys-code.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Yes — HEALTHYLIFE10 is a working Growth Guys discount code that takes 10% off your order.** Enter it in the discount-code field at checkout and the 10% comes off your subtotal. Verified August 2026. Educational only, not medical advice

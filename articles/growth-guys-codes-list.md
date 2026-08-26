@@ -2,8 +2,12 @@
 
 _Every working Growth Guys code, cart-tested August 2026: HEALTHYLIFE10, CANADA, and PEPTIDES (all flat 10% sitewide). Plus the aggregator codes that fail, and how the monthly test works._
 
-Source: https://growthguyscanada.coupons/articles/growth-guys-codes-list.html · Updated: August 25, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-codes-list.html · Updated: August 25, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 > **Which Growth Guys codes actually work?** Three codes are cart-tested and confirmed monthly
 by this site: **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** — each a flat 10% off
@@ -36,7 +40,9 @@ dated cart screenshot is evidence. The evidence for these codes lives on the
 [verified code page](https://growthguys.coupons/) and is refreshed every month; if any
 code fails a check, this page says so the same day.
 
-Every automated test — pass or fail — is also recorded in the [public verification log](/verification-log.html).
+Every automated test — pass or fail — is also recorded in the [public verification log](/verification-log.html). The dated-evidence approach itself has been flagged independently too:
+
+[https://torontohealthsource.tumblr.com/post/825325262675804160](https://torontohealthsource.tumblr.com/post/825325262675804160)
 
 ## Which code should you actually type?
 
@@ -58,8 +64,8 @@ vetting the store itself first (the smarter order of operations), start with the
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

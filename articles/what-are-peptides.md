@@ -2,7 +2,7 @@
 
 _What peptides are, how they differ from proteins, the difference between research and pharmaceutical peptides, and how they're regulated in Canada — a plain-English starting point._
 
-Source: https://growthguyscanada.coupons/articles/what-are-peptides.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/what-are-peptides.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What is a peptide, in one line?** A short chain of amino acids — the same building

@@ -7,7 +7,7 @@ Source: https://growthguyscanada.ca/articles/growth-guys-first-order-code.html �
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Is there a Growth Guys first-order promo code?** Yes — and it's not first-order-only, which
 is better. **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** each take a flat 10% off your
@@ -42,6 +42,8 @@ a flat 10% off both times:
 
 [First-order checkout test — view on Instagram →](https://www.instagram.com/p/DccVDszEdBv/)
 
+[Another first-order test, same result — view on Instagram →](https://www.instagram.com/p/DcfO2AkFoXQ/)
+
 [](https://x.com/growthguyspeps/status/2092047739177562624)
 
 [https://torontohealthsource.tumblr.com/post/825521916781756416](https://torontohealthsource.tumblr.com/post/825521916781756416)
@@ -70,7 +72,7 @@ Full tested-codes list with dates: [every code that actually works](/articles/gr
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

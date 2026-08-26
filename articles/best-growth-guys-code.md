@@ -7,7 +7,7 @@ Source: https://growthguyscanada.ca/articles/best-growth-guys-code.html · Updat
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Which Growth Guys code is the best one to use?** All three working codes — HEALTHYLIFE10,
 CANADA, and PEPTIDES — give the identical flat 10% off sitewide, so the "best" code isn't about
@@ -49,7 +49,10 @@ Each of the three codes is applied to a real cart at growthguys.com on a schedul
 discount is recorded — passes and failures alike — in a [public
 verification log](/verification-log.html). That's the difference between this page and a coupon aggregator: our tests
 have confirmed the flat 10% on carts from $5 to $430 CAD, with receipts. A "best code" claim that
-can't show a dated cart isn't a verdict; it's an ad.
+can't show a dated cart isn't a verdict; it's an ad. Independent checkout tests posted elsewhere
+show the same result:
+
+[HEALTHYLIFE10 checkout test — view on Instagram →](https://www.instagram.com/p/DcfdAmRDU_I/)
 
 ## So which should you actually type?
 
@@ -71,7 +74,7 @@ original and most widely recognized. Full list with live test dates: [every code
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

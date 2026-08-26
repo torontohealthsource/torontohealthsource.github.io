@@ -50,6 +50,8 @@ For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no ca
 
 [](https://x.com/growthguyspeps/status/2089834175989752147)
 
+[Another checkout test, code applied — view on Instagram →](https://www.instagram.com/p/DcfchFEDVPd/)
+
 ## FAQ
 
 **Is the Growth Guys code still working?** Yes — HEALTHYLIFE10 is verified for August 2026. This page is re-checked daily; see the exact timestamp on the [verification log](/verification-log.html).

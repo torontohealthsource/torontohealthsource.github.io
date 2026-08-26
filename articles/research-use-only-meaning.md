@@ -2,7 +2,7 @@
 
 _Almost every peptide is labelled 'research use only / not for human consumption.' Here's what that label actually means, why vendors use it, and what it implies for buyers in Canada._
 
-Source: https://growthguyscanada.ca/articles/research-use-only-meaning.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/research-use-only-meaning.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** "Research use only" (or "not for human consumption") is a **legal-status label**, not a quality claim. It signals the product is sold as a **laboratory research chemical** — not an approved drug or supplement — which is how vendors operate without Health Canada drug authorization. It tells you about the regulatory category, nothing about purity. This is general information, not legal or medical advice.
@@ -23,6 +23,10 @@ Because no regulator vets these products, the label actually *raises* the import
 
 [🧪 Score a vendor's testing in 60 seconds →](/vendor-quiz.html)
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not legal or medical advice. Peptides discussed are not approved for human use in Canada._

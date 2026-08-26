@@ -2,7 +2,7 @@
 
 _What happens when peptides cross the Canadian border: customs seizure risk, importer-of-record status, and why domestic shipping avoids it. Educational only, not legal advice._
 
-Source: https://growthguyscanada.ca/articles/peptides-canada-customs.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptides-canada-customs.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
@@ -49,6 +49,8 @@ In other words, the markup is largely the price of someone else taking the borde
 Border safety and testing transparency are two halves of the same decision. Once you've confirmed a vendor ships domestically, the next step is confirming you can verify its testing — the checklist in [how to choose a Canadian peptide vendor](/articles/best-canadian-peptide-vendor-2026.html) covers that side. If you'd rather work through it interactively, the free vendor-vetting quiz walks the same steps.
 
 ## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 **Can peptides be seized at the Canadian border?** An international parcel can be held or seized at customs. A domestic shipment never crosses the border, so this doesn't apply.
 

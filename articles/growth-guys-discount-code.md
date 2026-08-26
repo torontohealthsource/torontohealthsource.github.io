@@ -2,7 +2,7 @@
 
 _The working Growth Guys discount code is HEALTHYLIFE10 for 10% off. How to apply it, and why the vendor's testing matters more than the discount. Verified daily._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-discount-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-discount-code.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Does Growth Guys have a discount code?** Yes. The current working code is **HEALTHYLIFE10**, which takes **10% off** your order. Enter it in the discount/coupon field at checkout. Verified working as of **August 2026**.
@@ -75,6 +75,10 @@ For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no ca
 **How can I tell this is real verification, not just a badge?** Every check retains the store's raw cart API response, not just a screenshot — that's the underlying evidence, linked from every entry in the [verification log](/verification-log.html). A badge alone proves nothing; a retained, inspectable record does.
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [Free vendor-check quiz](/vendor-quiz.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 23, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).

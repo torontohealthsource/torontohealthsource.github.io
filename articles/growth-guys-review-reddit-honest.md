@@ -2,7 +2,7 @@
 
 _What do people on Reddit actually say about Growth Guys? The honest Canadian consensus: legit, third-party (Janoshik) tested, domestically shipped — but pricier than grey-market alternatives ('legit but expensive'). Balanced praise and criticism, no hype._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-review-reddit-honest.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-review-reddit-honest.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
@@ -63,6 +63,8 @@ ordering from them or anyone, run the store through the same checks the level-he
 use: our [60-second vendor-vetting quiz](/vendor-quiz.html) walks them.
 
 ## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 **Is Growth Guys legit according to Reddit?** The consensus in Canadian peptide communities is yes — legit and third-party tested — with the common caveat that it's more expensive than some alternatives.
 

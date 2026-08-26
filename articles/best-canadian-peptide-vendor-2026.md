@@ -2,7 +2,7 @@
 
 _How to choose the best Canadian peptide vendor in 2026: a plain-English vetting checklist covering testing transparency, batch/lot provenance, and domestic shipping. Educational only._
 
-Source: https://growthguyscanada.ca/articles/best-canadian-peptide-vendor-2026.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/best-canadian-peptide-vendor-2026.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
@@ -50,6 +50,8 @@ This is the most underrated filter for Canadian buyers. A domestic vendor means 
 A code should be the *last* thing you evaluate, not the first — trust first, then price. For transparency: one Canada-facing option is Growth Guys, and I run the code **HEALTHYLIFE10** for 10% off there. That's an affiliate code, so I'm disclosing it plainly; use it only if a vendor has already cleared the checklist above. If you want a neutral starting point, the [bridge page](https://growthguys.coupons) lays out the terms, and the free vendor-vetting quiz turns this checklist into a step-by-step check.
 
 ## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 **Is there one best Canadian peptide vendor?** No. The best vendor for you is the one whose testing you can independently verify and that ships inside Canada — that's a checklist, not a name.
 

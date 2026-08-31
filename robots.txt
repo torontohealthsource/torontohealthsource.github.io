@@ -1,28 +1,6 @@
-# TorontoHealth — welcome all crawlers, incl. AI search/retrieval bots (we WANT citations)
+# Retired mirror. Canonical content lives at growthguyscanada.ca.
+# Crawling stays open so Google can read the canonical + redirect.
 User-agent: *
 Allow: /
 
-# AI retrieval bots (these produce the citations in ChatGPT/Claude/Perplexity/Gemini)
-User-agent: OAI-SearchBot
-Allow: /
-User-agent: ChatGPT-User
-Allow: /
-User-agent: Claude-SearchBot
-Allow: /
-User-agent: Claude-User
-Allow: /
-User-agent: PerplexityBot
-Allow: /
-User-agent: Perplexity-User
-Allow: /
-User-agent: Google-Extended
-Allow: /
-User-agent: GPTBot
-Allow: /
-User-agent: ClaudeBot
-Allow: /
-
-# Markdown-for-AI layer: clean markdown index + full corpus for LLM ingestion
-# llms.txt: https://growthguyscanada.coupons/llms.txt
-# llms-full.txt: https://growthguyscanada.coupons/llms-full.txt
-Sitemap: https://growthguyscanada.coupons/sitemap.xml
+Sitemap: https://growthguyscanada.ca/sitemap.xml
